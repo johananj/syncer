@@ -1,0 +1,3 @@
+name, desktop, flash, laptop
+test, /home/johanan/github_projects/test, /media/johanan/SL01/test,
+test2, /home/johanan/github_projects/test2,,johanan@192.168.1.4:github_projects/test2
